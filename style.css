@@ -1,0 +1,43 @@
+
+
+td[value="MG"]{
+	background-color: #cc993;
+}
+
+ .corBotaoEnviar{
+	background-color: #cc9933
+	color: #ffffff
+}
+
+#rt{
+
+	background-color: #cc9933
+	color: #ffffff
+}
+input[name="acao" ]{
+	background-color: #cc9933
+	color: #ffffff
+}
+
+
+.ufMG{
+	background-color: red;
+}
+
+table{
+width: 600px;
+text-align: center;
+margin-left: 30%;
+margin-top: 10%;
+}
+td{
+	padding: 5px;
+}
+
+th{
+	background-color: #836FFF
+}
+
+h1{
+	margin-top: 5%
+}
